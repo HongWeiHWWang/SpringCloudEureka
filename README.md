@@ -1,2 +1,2 @@
 # SpringCloudEureka
-Spring Cloud Eureka
+Springboot eureka
